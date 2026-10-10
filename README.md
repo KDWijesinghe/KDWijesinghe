@@ -1,4 +1,4 @@
-![Banner](https://github.com/KDWbackup/templates/blob/main/6.png)
+![Banner](https://github.com/KDWbackup/templates/blob/main/linkdinbanner.jpg)
 
 ### Languages
 <p  align="center">
